@@ -1,11 +1,12 @@
 {
   "name": "extensions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "Apache-2.0",
   "displayName": "Techmmunity Extensions",
   "publisher": "techmmunity",
   "author": "Techmmunity",
   "description": "Techmmunity General Extensions Pack",
+  "icon": "resources/logo.png",
   "homepage": "https://github.com/techmmunity/extensions-extension#readme",
   "bugs": {
     "url": "https://github.com/techmmunity/extensions-extension/issues"
